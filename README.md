@@ -4,10 +4,5 @@ Julius Caesar ruled Rome back in 60 BC until he was dramatically stabbed in the 
 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg) 
 
-## Using
-After downloading, you can excecute the code through the terminal by typing
-
-```
-  python caesar.py
-```
-and following the program's instructions.  Cheers!
+## How to Use
+After downloading, simply follow the program's instructions.  You can encrypyt and decrypt messages with a key.
