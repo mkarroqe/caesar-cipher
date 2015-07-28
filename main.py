@@ -23,18 +23,7 @@ def main():
 		quit()
 
 	init()
-'''
-def main2():
-	choice = raw_input("Would you like to decrypt your message? Enter 'yes' or 'no'. ")
-    if choice == "yes":
-        print("Aha.. I see you don't trust me.  That's okay, here's the original message: ")
-        decrypt()
-    elif choice == "no":
-        print("k.")
-        quit()
-    else:
-        print("Error. Way to break me :/")
-'''
+
 def encrypt():
 	plaintext = raw_input("Please enter the message you want to encrypt: ")
 	key = raw_input("Please enter your key: ")
